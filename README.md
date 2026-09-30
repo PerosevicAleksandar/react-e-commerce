@@ -4,6 +4,7 @@ This is a responsive web application built with React that allows user to regist
 
 ## Screenshot
 
+![Fashion E-Commerce](screenshots/homepage.png)
 
 ## Features
 
